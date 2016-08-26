@@ -21,7 +21,7 @@ footer-links:
   email: vinhnguyentx@utexas.edu
   facebook:
   flickr:
-  github: github.com/vinhnguyen82
+  github: vinhnguyen82
   instagram:
   linkedin:
   pinterest:
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-83205564-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
