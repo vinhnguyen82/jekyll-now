@@ -4,10 +4,10 @@ title: First week with Software Engineering
 ---
 
 <b>What did you do this past week?</b><br>
-I finished installing all required tools and VM, and I learnt more about Python and a little about Docker VM.<br><br>
+I finished installing all required tools and VM, and I learnt more about Python and a little about Docker VM.<br>
 
 <b>What's in your way?</b><br>
-Docker VM is new so I need more time to be familiar with it.<br><br>
+Docker VM is new so I need more time to be familiar with it.<br>
 
 <b>What will you do next week?</b><br>
 I'll spend more time to learn Python and JavaScript, as well as how to use coverage, pylint, autopeep8 and Docker VM effectively.<br><br>
