@@ -4,7 +4,7 @@ title: Fourth week with Software Engineering
 ---
 
 <b>What did you do this past week?</b><br>
-I completed project 2's coding with my partner very soon, just one day after the project released so we will have lots of time to prepare for the Career Fair next week. We also learned new material in class. We had Chris Martin from Bloomberg as guest speaker and his presentation was so inspiring and wonderful.
+I completed project 2's coding with my partner very soon, just one day after the project was released so we will have lots of time to prepare for the Career Fair next week. We also learned new material in class. We had Chris Martin from Bloomberg as guest speaker and his presentation was so inspiring and wonderful.
 
 <b>What's in your way?</b><br>
 I'm still learning Python and completing the project's requirements. I'm still e beginner to Python and it's a bad story.
