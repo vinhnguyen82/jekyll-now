@@ -4,7 +4,7 @@ title: Nineth week with Software Engineering
 ---
 
 <b>What did you do this past week?</b><br>
-We completed the project's website. I learned many new stuffs, like Bootstrap, SQL, how to set up Digital Ocean, how to set up a new website's database and how to query through the database. Those new stuffs are so interesting and so useful. I'm addicted to Bootstrap now I cannot wait to use it on my new personal website.
+We set up the project's website. I learned many new stuffs, like Bootstrap, SQL, how to set up Digital Ocean, how to set up a new website's database and how to query through the database. Those new stuffs are so interesting and so useful. I'm addicted to Bootstrap now I cannot wait to use it on my new personal website.
 
 <b>What's in your way?</b><br>
 We still have some issues with the website and I'm not quite satisfied with it. I think we need to make a lot of changes for the second phase which dues in two weeks. New material which are necessary for the project are tremendous and took so much of my time, since I had to learn a lot to understand what my teammates are doing and help them in some ways. I hope that would pay me off in the near future.
