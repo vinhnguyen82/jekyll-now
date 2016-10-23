@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nineth week with Software Engineering
+title: Ninth week with Software Engineering
 ---
 
 <b>What did you do this past week?</b><br>
