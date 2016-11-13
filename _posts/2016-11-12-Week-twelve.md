@@ -12,6 +12,6 @@ Scrapping database from the RESTful APIs seems to be the biggest problem for us 
 <b>What will you do next week?</b><br>
 Our job next week is to finish scrapping all the required database, optimize our models and the website to fulfill the project’s requirements. I’m preparing for the most important interview so far and I hope I will succeed and have a good start for my career.
 
-In class this week we learned about refactoring in Java. The examples are already there but need time to “digest” and understand them. And the quizzes are really tricky by pointing into the critical points of the examples and that’s the reason on which I lost many points. Right now, the lectures in class and the examples are extremely helpful for me while I’m in interviews with couples companies and the questions are always about object-oriented programming’s four corner stones, abstraction, interface, static classes,…
+In class this week we learned about refactoring in Java. The examples are already there but I needs time to “digest” and "memorize" them clearly. And the quizzes are really tricky by pointing into the critical points of the examples and that’s the reason on which I lost many points. Right now, the lectures in class and the examples are extremely helpful for me while I’m in interviews with couples companies and the questions are always about object-oriented programming’s four corner stones, abstraction, interface, static classes,…
 
 <i>Tips of the week: </i> “Never be dependent on any individual in work or you would suffer lateness or failure.”
